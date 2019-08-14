@@ -1,3 +1,4 @@
+// by kavak 9003
 import urllib.request
 import random
 
